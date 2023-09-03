@@ -1,0 +1,33 @@
+---
+pagetitle: "Masood Lab"
+# main-photo: /assets/aadam-2021-square.jpg
+# main-photo-square: /assets/aadam-2021-square.jpg
+page-layout: full
+---
+
+# Welcome to Masood Lab
+
+### Indiana Univeristy School of Medicine
+
+::: {.grid}
+
+
+::: {.g-col-12 .g-col-md-6 .w-full .h-full}
+
+::: {.w-full .h-full .pb-0}
+![](assets/Cancer%20Cell%203%20collage.png){fig-alt="A picture of Cancer Cells."}
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6 .w-full .h-full}
+
+::: {.w-full .h-full .pb-0}
+
+Study and understand tumors and their ecosystem at single cell resolution using exceptional single cell and spatial techniques coupled with advanced computational analysis to develope novel biomarkers and powefull therapies. Additionally we want to understand and discuss intra tumoral heterogenity,relationship,patient outcomes,treatment responses and resistance. Our lab comprises of clinical scientists,Pathologists,computational Biologists,computational scientists and clinical trailist working as a team to achive an ulitimate goal to improve clinical outcomes in Gastrointestinal Cancer.
+:::
+
+:::
+
+:::
+

@@ -1,0 +1,38 @@
+---
+title: "Aadam"
+doi: 10.1007/s00500-021-06578-4
+position: "Ph.D. Student"
+image: aadam_pic.jpeg
+joining-date: 2023-07-01
+links:
+  - name: Preprint
+    url: aadam_et_al_2022_emopercept.pdf
+    local: true
+    icon: fa-solid fa-file-pdf
+  - name: Final version
+    url: https://doi.org/10.1007/s00500-021-06578-4
+    icon: fa-solid fa-scroll
+  - name: Code and data
+    url: https://github.com/aadimator/Clustering-of-Graphs-Using-Pseudo-Guided-Random-Walk
+    icon: fa-brands fa-github
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.1007/s00500-021-06578-4
+    icon: ai ai-zotero
+twitter: 
+linkedin: https://www.linkedin.com/in/ashiq-masood-md-24b73b182/
+email: asmasood@iu.edu
+website: https://cancer.iu.edu/research-trials/member-bio.shtml?name=ashiq-masood&id=30117
+phone: tel:(317) 948-7575
+---
+
+## Biography
+
+Associate Professor of Medicine
+Program Leader, GI Medical Oncology
+Indiana University School Of Medicine.
+Center for Computational Biology and Bioinformatics
+Department of Medicine - Hematology/Oncology.
+
+---
+
+Dr.Masood pursued his M.B.B.S and MD from Sher-I-Kashmir Institute of Medical Sciences, India.He received his residency from Wayne State University,Detroit,MI USA(2012) .He obtained his Post-doctoral fellowship from University of Maryland Greenebaum Cancer Center,Baltimore,MD,USA(2015). Dr.Masood holds pervious mentoring experience as Assistant Professor of Medicine from University of Missouri-Kansas City School of Medicine USA(2016-2018) and Washington University of Medicine St.Louis,USA (2015-2016) .He was previously the Director of Gastrointestinal Medical Oncology at Rush University Medical College Chicago,IL,USA(2018-2021).His areas of expertise are gastrointestinal cancer and Precision medicine. He has a well-versed knowledge in computational biology and cancer genomics with which he is highly motivated to experiment various innovative clinical trails in field of Oncology.He was a member of the research group that made the breakthrough finding that transposons, or "jumping genes," causing colon cancer.Dr.Masood is currently the Program Leader of GI Medical Oncology at Indiana University Melvin and Bren Simon Cancer Center.His major publications were in high impact peer-reviewed journals like American Association of Cancer Research’s Molecular Cancer Therapeutics,Journal of Clinical Oncology and BioMed Central’s Molecular Cancer. He is an reviewer for top-tier medical journals and also an associate editor for BMC Cancer. His current research interest mainly focuses on Single cell RNA seq and Spatial Transcriptomics.

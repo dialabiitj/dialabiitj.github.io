@@ -1,0 +1,8 @@
+/*-- scss:uses --*/
+// @use '_variables' as *;
+@use '_profile_card';
+
+/*-- scss:functions --*/
+@function colorToRGB ($color) {
+    @return "rgb(" + red($color) + ", " + green($color) + ", " + blue($color)+ ")";
+}

@@ -1,0 +1,93 @@
+project:
+  type: website
+
+  preview: 
+      port: 5555
+      browser: true
+      watch-inputs: true
+      navigate: true
+
+  resources:
+    - "assets/**"
+
+# Metadata
+pagetitle: "{{< meta title >}} | Masood Lab"
+description-meta: "Masood Lab, located at IUPUI, is focused on researching in the field of single cell and spatial transcriptomics."
+author-meta: "Masood Lab"
+
+freeze: true
+
+website:
+  title: "Masood Lab"
+  description: "{{< meta description-meta >}}"
+  # favicon: "/assets/logo.png"
+  site-url: "https://masoodlab.com/"
+  # repo-url: "https://github.com/aadimator/aadam_dev"
+  # repo-actions: issue
+  # image: /assets/logo.png
+
+  twitter-card: 
+    # image: "/assets/logo.png"
+    description: "{{< meta description-meta >}}"
+    card-style: summary_large_image
+    # creator: "@aadimator"
+    # site: "@aadimator"
+
+  open-graph: 
+    # image: "/assets/logo.png"
+    description: "{{< meta description-meta >}}"
+    locale: en_US
+
+  
+  navbar:
+    left:
+      
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu: 
+          - href: about.qmd
+            text: Our Research
+          - text: Our Team
+            href: team/index.qmd
+          - href: index.qmd
+            text: Photos
+      - href: index.qmd
+        text: Publications
+      - href: index.qmd
+        text: Contact Us
+      - href: index.qmd
+        text: News
+      - href: index.qmd
+        text: Apply
+      - href: index.qmd
+        text: Support Us
+
+  page-footer: 
+    center: "Copyright 2023, Masood Lab" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/
+
+format:
+  html:
+    theme: 
+      - litera
+      - _style/custom.scss
+    css: _style/styles.css
+    smooth-scroll: true
+    link-external-newwindow: true
+    toc: false
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    code-block-border-left: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+
+
+

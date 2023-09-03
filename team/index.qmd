@@ -1,0 +1,35 @@
+---
+title: "Our Team"
+listing:
+    - id: current
+      contents: "current/**/index.qmd"
+      sort: "joining-date asc"
+      template: ../_layout/team/listing.ejs
+      # type: grid
+    - id: previous
+      contents: "archive/**/index.qmd"
+      sort: "date desc"
+      template: ../_layout/team/listing.ejs
+page-layout: full
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+anchor-sections: false
+---
+
+<!-- ::: {.callout-note appearance="simple"} -->
+
+> Here the realm of machine learning and deep learning collides with the intricate world of genomics and biology. Delve into the fascinating landscape of bioinformatics as I share my personal transformation, offering insights and resources tailored for fellow computer scientists embarking on their bioinformatics adventure. {{< fa blank >}} {{< ai blank >}}
+
+<!-- ::: -->
+
+
+## Current Lab Members
+
+:::{#current}
+:::
+
+## Previous Lab Members
+
+:::{#previous}
+:::
