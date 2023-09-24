@@ -1,17 +1,18 @@
-@use '_variables' as *;
+@use '_variables' as *; 
 
 .our-team {
 	padding: 30px 0 40px;
 	margin-bottom: 30px;
-	background-color: $background-color_1;
+	background-color: $iu_cream;
 	text-align: center;
 	overflow: hidden;
 	position: relative;
+	height: 90%;
 	.picture {
 		display: inline-block;
 		height: 130px;
 		width: 130px;
-		margin-bottom: 50px;
+		// margin-bottom: 50px;
 		z-index: 1;
 		position: relative;
 		&::before {
@@ -19,7 +20,7 @@
 			width: 100%;
 			height: 0;
 			border-radius: 50%;
-			background-color: $background-color_2;
+			background-color: $iu_crimson;
 			position: absolute;
 			bottom: 135%;
 			right: 0;
@@ -33,7 +34,7 @@
 			width: 100%;
 			height: 100%;
 			border-radius: 50%;
-			background-color: $background-color_2;
+			background-color: $iu_crimson;
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -61,17 +62,33 @@
 			bottom: 0;
 		}
 	}
-	.title {
-		display: block;
-		font-size: 15px;
-		color: $color_1;
-		text-transform: capitalize;
+	.team-content {
+		a {
+			text-decoration: none;
+			color: $iu_crimson;
+
+			&:hover {
+				color: $iu_cirmson_dark;
+			}
+		}
+		.name {
+			text-decoration: none;
+			overflow: hidden;
+			// color: $iu_crimson;
+		}
+		.title {
+			display: block;
+			font-size: 15px;
+			color: $iu_black;
+			text-transform: capitalize;
+			padding-bottom: 1rem;
+		}
 	}
 	.social {
 		width: 100%;
 		padding: 0;
 		margin: 0;
-		background-color: $background-color_2;
+		background-color: $iu_crimson;
 		position: absolute;
 		bottom: -100px;
 		left: 0;
@@ -82,12 +99,12 @@
 				display: block;
 				padding: 10px;
 				font-size: 17px;
-				color: $color_2;
+				color: $iu_cream;
 				transition: all 0.3s ease 0s;
 				text-decoration: none;
 				&:hover {
-					color: $color_3;
-					background-color: $background-color_1;
+					color: $iu_crimson;
+					background-color: $iu_cream;
 				}
 			}
 		}

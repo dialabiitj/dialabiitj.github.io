@@ -3,6 +3,6 @@
 @use '_profile_card';
 
 /*-- scss:functions --*/
-@function colorToRGB ($color) {
-    @return "rgb(" + red($color) + ", " + green($color) + ", " + blue($color)+ ")";
-}
+// @function colorToRGB ($color) {
+//     @return "rgb(" + red($color) + ", " + green($color) + ", " + blue($color)+ ")";
+// }

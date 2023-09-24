@@ -1,21 +1,25 @@
 ```{=html}
 <div class="grid">
-    <% for (const post of items) { %>
+    <% for (const item of items) { %>
         <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
             <div class="our-team">
               <div class="picture">
-                <img class="img-fluid" src="<%= post.image %>" alt="<%= post.title %>" title="<%= post.title %>">
-              </div>
+                <a href="<%- item.path %>">
+                  <img class="img-fluid" src="<%= item.image %>" alt="<%= item.title %>" title="<%= item.title %>">
+                </a>
+                </div>
+              
               <div class="team-content">
-                <h3 class="name"><%= post.title %></h3>
-                <h4 class="title"><%= post.position %></h4>
+                <a href="<%- item.path %>"><h3 class="name"><%= item.title %></h3></a>
+                <h4 class="title"><%= item.position %></h4>
               </div>
-              <ul class="social">
-                <li><a href="https://codepen.io/collection/XdWJOQ/" class="fa fa-facebook" aria-hidden="true"></a></li>
-                <li><a href="https://codepen.io/collection/XdWJOQ/" class="fa fa-twitter" aria-hidden="true"></a></li>
-                <li><a href="https://codepen.io/collection/XdWJOQ/" class="fa fa-google-plus" aria-hidden="true"></a></li>
-                <li><a href="https://codepen.io/collection/XdWJOQ/" class="fa fa-linkedin" aria-hidden="true"></a></li>
-              </ul>
+              <% if (item.links) { %>
+                <ul class="social">
+                    <% for (const link of item.links) { %>
+                      <li><a href="<%- link.url %>" title="<%- link.name %>" aria-hidden="true"><i class="<%- link.icon %>"></i></a></li>
+                    <% } %>
+                  </ul>
+              <% } %>
             </div>
           </div>
     <% } %>

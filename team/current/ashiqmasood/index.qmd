@@ -1,38 +1,42 @@
 ---
 title: "Ashiq Masood"
-doi: 10.1007/s00500-021-06578-4
+# doi: 10.1007/s00500-021-06578-4
 position: "Program Leader"
-subtitle: "Something specific"
 image: ashiq_pic.jpeg
+# about:
+#   template: broadside
+#   image: ashiq_pic.jpeg
+#   links:
+#     - icon: twitter
+#       text: twitter
+#       href: https://twitter.com
+#     - icon: github
+#       text: Github
+#       href: https://github.com
 joining-date: 2020-07-01
+toc: false
 links:
-  - name: Preprint
-    url: aadam_et_al_2022_emopercept.pdf
-    local: true
-    icon: fa-solid fa-file-pdf
-  - name: Final version
-    url: https://doi.org/10.1007/s00500-021-06578-4
-    icon: fa-solid fa-scroll
-  - name: Code and data
-    url: https://github.com/aadimator/Clustering-of-Graphs-Using-Pseudo-Guided-Random-Walk
-    icon: fa-brands fa-github
-  - name: Add to Zotero
-    url: https://www.zotero.org/save?type=doi&q=10.1007/s00500-021-06578-4
-    icon: ai ai-zotero
-twitter: 
-linkedin: https://www.linkedin.com/in/ashiq-masood-md-24b73b182/
-email: asmasood@iu.edu
-website: https://cancer.iu.edu/research-trials/member-bio.shtml?name=ashiq-masood&id=30117
-phone: tel:(317) 948-7575
+  - name: Email
+    url: mailto:asmasood@iu.edu
+    icon: fa-solid fa-envelope
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/ashiq-masood-md-24b73b182/
+    icon: fa-brands fa-linkedin
+  - name: Website
+    url: https://cancer.iu.edu/research-trials/member-bio.shtml?name=ashiq-masood&id=30117
+    icon: fa-regular fa-globe
+  - name: Phone
+    url: tel:(317) 948-7575
+    icon: fa-solid fa-phone
 ---
 
 ## Biography
 
-Associate Professor of Medicine
-Program Leader, GI Medical Oncology
-Indiana University School Of Medicine.
-Center for Computational Biology and Bioinformatics
-Department of Medicine - Hematology/Oncology.
+Associate Professor of Medicine  
+Program Leader, GI Medical Oncology  
+Indiana University School Of Medicine.  
+Center for Computational Biology and Bioinformatics  
+Department of Medicine - Hematology/Oncology.  
 
 ---
 
