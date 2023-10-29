@@ -21,7 +21,7 @@ website:
   title: "Masood Lab"
   description: "{{< meta description-meta >}}"
   favicon: "/assets/favicon.png"
-  site-url: "https://masoodlab.com/"
+  # site-url: "https://masoodlab.com/"
   # repo-url: "https://github.com/aadimator/aadam_dev"
   # repo-actions: issue
   # image: /assets/logo.png
@@ -80,5 +80,6 @@ format:
     reference-location: margin
     footnotes-hover: true
 
-
+execute:
+  freeze: auto
 
