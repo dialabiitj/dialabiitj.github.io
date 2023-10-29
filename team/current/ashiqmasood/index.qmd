@@ -2,10 +2,9 @@
 title: "Ashiq Masood"
 # doi: 10.1007/s00500-021-06578-4
 position: "Program Leader"
-image: ashiq_pic.jpeg
+image: ashiq_pic.jpg
 about:
   template: broadside
-  image: ashiq_pic.jpg
 joining-date: 2020-07-01
 toc: false
 links:
