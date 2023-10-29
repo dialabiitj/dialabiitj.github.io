@@ -1,7 +1,10 @@
 ---
 title: "Apply Now"
+title-block-banner: true
 ---
 
-The Masood Lab is always looking for hardworking passionate students who are interested in creating a change in the field of cancer. If interested in becoming a part of our team email us with your Cover Letter and Resume attached ( Please use the email provided below ).
+Are you a dedicated, passionate student eager to make a difference in the field of cancer research? The Masood Lab is always on the lookout for hardworking individuals like you. If you're interested in becoming part of our dynamic team, please send us your application. Attach your Cover Letter and Resume to an email and forward it to:
 
-Send Resume and CV Here: <akhaliq@iu.edu>
+Email: <akhaliq@iu.edu>
+
+We look forward to reviewing your application and potentially welcoming you to our team.

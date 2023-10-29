@@ -5,9 +5,7 @@ date-format: "MMMM YYYY"
 title-block-banner: true
 
 # Default for table of contents
-toc: true
-toc-title: Contents
-toc-location: left
+toc: false
 
 # Default knitr options
 execute:
@@ -15,4 +13,4 @@ execute:
   message: false
   warning: false
 
-include-back-link: false
+include-back-link: true

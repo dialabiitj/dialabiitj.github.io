@@ -41,21 +41,14 @@ website:
   
   navbar:
     left:
-      
       - href: index.qmd
         text: Home
-      - text: About
-        menu: 
-          - href: about.qmd
-            text: Our Research
-          - text: Our Team
-            href: team/index.qmd
-          - href: index.qmd
-            text: Photos
+      - href: research.qmd
+        text: Research
+      - text: Team
+        href: team/index.qmd
       - href: publications.qmd
         text: Publications
-      # - href: index.qmd
-      #   text: Contact
       - href: news.qmd
         text: News
       - href: apply.qmd
@@ -75,7 +68,6 @@ format:
   html:
     theme: [zephyr, _style/custom.scss]
     css: _style/styles.css
-    linkcolor: "#990000"
     smooth-scroll: true
     link-external-newwindow: true
     toc: false

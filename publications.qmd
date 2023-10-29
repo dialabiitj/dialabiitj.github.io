@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 page-layout: full
+title-block-banner: true
 ---
 
 (Full list of publications can be found [here](https://pubmed.ncbi.nlm.nih.gov/?term=Masood+A))

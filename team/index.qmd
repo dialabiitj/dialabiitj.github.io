@@ -19,7 +19,7 @@ anchor-sections: false
 
 <!-- ::: {.callout-note appearance="simple"} -->
 
-> Here the realm of machine learning and deep learning collides with the intricate world of genomics and biology. Delve into the fascinating landscape of bioinformatics as I share my personal transformation, offering insights and resources tailored for fellow computer scientists embarking on their bioinformatics adventure. {{< fa blank >}}   
+> Each member of our team brings a unique perspective and expertise, united by the shared commitment to making a lasting impact on the world of cancer research and treatment. Explore the profiles of our exceptional team members, and discover the faces driving our quest for transformative discoveries. {{< fa blank >}}   
 
 <!-- ::: -->
 
@@ -29,7 +29,7 @@ anchor-sections: false
 :::{#current}
 :::
 
-## Previous Lab Members
+<!-- ## Previous Lab Members
 
 :::{#previous}
-:::
+::: -->

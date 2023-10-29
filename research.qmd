@@ -1,0 +1,20 @@
+---
+title: "Our Research"
+title-block-banner: true
+---
+
+
+<!-- ## Single-cell RNA sequencing and Spatial Transcriptomics of GI cancers
+
+- We use single cell cutting edge technology and spatially resolved transcriptomics in GI cancers to understand tumors and ecosystems at single cell and spatial context to develop clinically relevant biomarkers and identify therapeutic abilities.
+- We also study the mouse-models to identify constitutive pathways between humans and mouse to be used in novel therapeutics
+- Our studies focus on untangling unique metastatic cellular niches to devlope effective drug therapy.
+- Analysis of intratumoral heterogeneity of Pancreatic Ductal Adenocarcinoma -->
+
+At **Masood Lab**, we are at the forefront of single-cell RNA sequencing and spatial transcriptomics research in gastrointestinal (GI) cancers. Our cutting-edge technologies allow us to delve deep into the intricacies of GI tumors and their ecosystems at both the single-cell and spatial context, with the ultimate goal of developing clinically relevant biomarkers and identifying therapeutic opportunities.
+
+In addition, we harness the power of mouse models to establish key pathways that are shared between humans and mice. These pathways serve as essential building blocks for the development of novel therapeutic approaches that can significantly impact the field of GI cancer treatment.
+
+Our research endeavors are specifically dedicated to unraveling the mysteries of unique metastatic cellular niches, with a strong emphasis on devising effective drug therapies. By understanding these niches, we aim to advance the field of personalized medicine and offer hope to individuals battling GI cancers.
+
+Furthermore, we focus our analytical prowess on the complex landscape of intratumoral heterogeneity within Pancreatic Ductal Adenocarcinoma. Our studies in this area shed light on the diverse genetic and cellular compositions within tumors, paving the way for more targeted and precise treatment strategies.

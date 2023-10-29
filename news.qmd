@@ -1,5 +1,6 @@
 ---
 title: "News"
+title-block-banner: true
 ---
 
 - **Sep 2022**: Dr.Ateeq Khaliq from Masood’s Lab has been promoted to Assistant Research Professor of Medicine at Indiana University-Purdue University Indianapolis.

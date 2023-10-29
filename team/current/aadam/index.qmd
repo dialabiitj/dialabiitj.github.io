@@ -5,6 +5,8 @@ position: "Ph.D. Student"
 image: aadam_pic.jpeg
 joining-date: 2023-07-01
 toc: false
+about:
+  template: broadside
 links:
   - name: Email
     url: mailto:mraadam@iu.edu
@@ -25,11 +27,12 @@ links:
 
 ## Biography
 
-Ph.D. Student  
-Indiana University School Of Medicine.  
-Center for Computational Biology and Bioinformatics  
-Department of Medicine - Hematology/Oncology.  
+- Ph.D. Student  
+- Indiana University School Of Medicine.  
+- Center for Computational Biology and Bioinformatics  
 
 ---
 
-Dr.Masood pursued his M.B.B.S and MD from Sher-I-Kashmir Institute of Medical Sciences, India.He received his residency from Wayne State University,Detroit,MI USA(2012) .He obtained his Post-doctoral fellowship from University of Maryland Greenebaum Cancer Center,Baltimore,MD,USA(2015). Dr.Masood holds pervious mentoring experience as Assistant Professor of Medicine from University of Missouri-Kansas City School of Medicine USA(2016-2018) and Washington University of Medicine St.Louis,USA (2015-2016) .He was previously the Director of Gastrointestinal Medical Oncology at Rush University Medical College Chicago,IL,USA(2018-2021).His areas of expertise are gastrointestinal cancer and Precision medicine. He has a well-versed knowledge in computational biology and cancer genomics with which he is highly motivated to experiment various innovative clinical trails in field of Oncology.He was a member of the research group that made the breakthrough finding that transposons, or "jumping genes," causing colon cancer.Dr.Masood is currently the Program Leader of GI Medical Oncology at Indiana University Melvin and Bren Simon Cancer Center.His major publications were in high impact peer-reviewed journals like American Association of Cancer Research’s Molecular Cancer Therapeutics,Journal of Clinical Oncology and BioMed Central’s Molecular Cancer. He is an reviewer for top-tier medical journals and also an associate editor for BMC Cancer. His current research interest mainly focuses on Single cell RNA seq and Spatial Transcriptomics.
+Aadam holds both a Bachelor's and a Master's degree in Computer Science, with a specific focus on Deep Learning and Machine Learning. His academic journey has equipped him with a strong foundation in these cutting-edge technologies.
+
+Aadam's passion for research and his drive to make a significant impact in the field of bioinformatics have led him to join our lab as a PhD student. With his extensive expertise in Deep Learning, he aspires to harness this knowledge to tackle complex challenges in the realm of bioinformatics and oncology. Aadam's unique blend of computer science and bioinformatics promises to be a valuable asset to our research endeavors.

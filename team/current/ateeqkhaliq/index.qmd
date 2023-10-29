@@ -4,6 +4,8 @@ position: "Assistant Research Professor"
 image: ateeq_khaliq.jpg
 joining-date: 2021-07-01
 toc: false
+about:
+  template: broadside
 links:
   - name: Email
     url: mailto:akhaliq@iu.edu
@@ -15,10 +17,18 @@ links:
 
 ## Biography
 
-Assistant Research professor in Medicine.  
+- Assistant Research professor in Medicine.  
+- Indiana University Purdue University Indianapolis  
 
-Indiana University Purdue University Indianapolis  
+---
 
+<!-- Dr.Ateeq Khaliq is a Bioinformatics Scientist with high proficiency in DNA Sequencing, Clinical Data Management and Molecular Biology. He has previous experience as Principle scientific analyst at Molecular Connections ,India(2011) where he identified PPI related to Insulin signaling and Alzheimer’s disease which can be used for drug discovery. He worked as Bioinformatics Scientist at Incedo,India(2020) and his work focused on Big Data Analysis ,Next Generation Sequencing and Microarray Data Analysis. He pursued his postdoctoral research fellowship from Rush University (2020-2021) and is currently working as Assistant research professor of Medicine at IUPUI. His research work mainly focuses on developing computational pipelines and methods for omics data.
+Masood Lab -->
 
-Dr.Ateeq Khaliq is a Bioinformatics Scientist with high proficiency in DNA Sequencing, Clinical Data Management and Molecular Biology. He has previous experience as Principle scientific analyst at Molecular Connections ,India(2011) where he identified PPI related to Insulin signaling and Alzheimer’s disease which can be used for drug discovery. He worked as Bioinformatics Scientist at Incedo,India(2020) and his work focused on Big Data Analysis ,Next Generation Sequencing and Microarray Data Analysis. He pursued his postdoctoral research fellowship from Rush University (2020-2021) and is currently working as Assistant research professor of Medicine at IUPUI. His research work mainly focuses on developing computational pipelines and methods for omics data.
-Masood Lab
+Dr. Ateeq Khaliq is a highly skilled Bioinformatics Scientist whose expertise spans DNA Sequencing, Clinical Data Management, and Molecular Biology. With a rich academic and professional background, he has made notable contributions to the field of bioinformatics.
+
+Previously, Dr. Khaliq served as the Principal Scientific Analyst at Molecular Connections, India, in 2011, where he made significant discoveries related to protein-protein interactions (PPI) within Insulin signaling and Alzheimer's disease. These findings held immense potential for drug discovery. His dedication to advancing the field continued as he took on the role of Bioinformatics Scientist at Incedo, India, in 2020. Here, his work was concentrated on Big Data Analysis, Next-Generation Sequencing, and Microarray Data Analysis, reaffirming his commitment to cutting-edge research.
+
+Further enriching his expertise, Dr. Khaliq completed a postdoctoral research fellowship at Rush University between 2020 and 2021. Currently, he serves as an Assistant Research Professor of Medicine at IUPUI. His primary research endeavors revolve around the development of computational pipelines and methods for omics data, making substantial contributions to the research initiatives of the Masood Lab.
+
+Dr. Khaliq's dedication to bioinformatics and his impactful contributions to the field make him an invaluable asset to the Masood Lab team.

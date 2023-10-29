@@ -4,6 +4,8 @@ title: "Meenakshi Raja Mohan"
 position: "Ph.D. Student"
 image: meenakshi_pic.jpeg
 joining-date: 2022-07-01
+about:
+  template: broadside
 toc: false
 links:
   - name: Email
@@ -22,6 +24,14 @@ links:
 
 ## Biography
 
-PhD Student IUPUI  
+- PhD Student IUPUI 
 
-Meenakshi has obtained her Bachelor's Degree in Biotechnology from Anna University India(2015). She worked as Project Associate at Indian Institute of Technology ,India. She expertised her work experience as a Genomics Data Scientist at Bionivid Technology and Bioinformatics Scientist at Eurofins Genomics ,India .She is currently pursing her PhD in Bioinformatics at IUPUI. Her research interest focus on implying bioinformatics techniques to analyze and understand the genomic data that play a vital role in cancer prognosis.
+---
+
+<!-- Meenakshi has obtained her Bachelor's Degree in Biotechnology from Anna University India(2015). She worked as Project Associate at Indian Institute of Technology ,India. She expertised her work experience as a Genomics Data Scientist at Bionivid Technology and Bioinformatics Scientist at Eurofins Genomics ,India .She is currently pursing her PhD in Bioinformatics at IUPUI. Her research interest focus on implying bioinformatics techniques to analyze and understand the genomic data that play a vital role in cancer prognosis. -->
+
+Meenakshi is a dedicated and accomplished professional in the field of biotechnology and bioinformatics. She commenced her educational journey by obtaining a Bachelor's Degree in Biotechnology from Anna University, India, in 2015. Over the years, she has honed her skills and knowledge in various research and industry positions.
+
+Meenakshi began her career as a Project Associate at the prestigious Indian Institute of Technology, India, gaining valuable experience in cutting-edge research. She then transitioned to roles that showcased her expertise as a Genomics Data Scientist at Bionivid Technology and a Bioinformatics Scientist at Eurofins Genomics, India. These experiences allowed her to apply her proficiency in bioinformatics to real-world genomics challenges.
+
+Currently, Meenakshi is pursuing her PhD in Bioinformatics at IUPUI, further deepening her understanding of this dynamic field. Her research interests are centered around the application of bioinformatics techniques to analyze and interpret genomic data, with a specific focus on its critical role in cancer prognosis. Meenakshi's commitment to advancing our understanding of genomics and its impact on cancer outcomes is a testament to her passion for making a difference in the field of bioinformatics.
