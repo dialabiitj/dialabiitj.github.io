@@ -7,7 +7,7 @@ page-layout: full
 
 ::: {.hero}
 # Welcome to Masood Lab
-## Indiana Univeristy School of Medicine
+## Indiana University School of Medicine
 
 ![](assets/logo.png){fig-alt="Logo of Masood Lab"}
 
