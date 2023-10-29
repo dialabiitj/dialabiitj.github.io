@@ -5,17 +5,27 @@ pagetitle: "Masood Lab"
 page-layout: full
 ---
 
+::: {.hero}
 # Welcome to Masood Lab
+## Indiana Univeristy School of Medicine
 
-### Indiana Univeristy School of Medicine
+![](assets/logo.png){fig-alt="Logo of Masood Lab"}
 
-::: {.grid}
+:::
 
+
+::: {.grid .mission}
 
 ::: {.g-col-12 .g-col-md-6 .w-full .h-full}
 
 ::: {.w-full .h-full .pb-0}
-![](assets/Cancer%20Cell%203%20collage.png){fig-alt="A picture of Cancer Cells."}
+
+## Our Mission
+
+<!-- Study and understand tumors and their ecosystem at single cell resolution using exceptional single cell and spatial techniques coupled with advanced computational analysis to develope novel biomarkers and powefull therapies. Additionally we want to understand and discuss intra tumoral heterogenity,relationship,patient outcomes,treatment responses and resistance. Our lab comprises of clinical scientists,Pathologists,computational Biologists,computational scientists and clinical trailist working as a team to achive an ulitimate goal to improve clinical outcomes in Gastrointestinal Cancer. -->
+At **Masood Lab**, our mission is to *unravel the intricate world of tumors and their microenvironments* at the single-cell level. We employ cutting-edge single-cell and spatial techniques, supported by advanced computational analysis, to uncover novel biomarkers and potent therapeutic solutions. Furthermore, we are committed to delving into the complexities of *intra-tumoral heterogeneity*, understanding the intricate relationships within tumor ecosystems, investigating patient outcomes, deciphering treatment responses, and overcoming resistance.
+
+Our multidisciplinary team, comprised of clinical scientists, pathologists, computational biologists, computational scientists, and clinical trialists, collaborates seamlessly to achieve a common goal: enhancing clinical outcomes for individuals battling gastrointestinal cancer. We are dedicated to pioneering transformative research that can make a profound difference in the lives of patients and their families.
 :::
 
 :::
@@ -23,8 +33,7 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-6 .w-full .h-full}
 
 ::: {.w-full .h-full .pb-0}
-
-Study and understand tumors and their ecosystem at single cell resolution using exceptional single cell and spatial techniques coupled with advanced computational analysis to develope novel biomarkers and powefull therapies. Additionally we want to understand and discuss intra tumoral heterogenity,relationship,patient outcomes,treatment responses and resistance. Our lab comprises of clinical scientists,Pathologists,computational Biologists,computational scientists and clinical trailist working as a team to achive an ulitimate goal to improve clinical outcomes in Gastrointestinal Cancer.
+![](assets/home_hero.jpg){fig-alt="A picture of Cancer Cells."}
 :::
 
 :::

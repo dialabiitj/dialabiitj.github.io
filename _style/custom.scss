@@ -1,8 +1,182 @@
-/*-- scss:uses --*/
-// @use '_variables' as *;
-@use '_profile_card';
+/*-- scss:defaults --*/
 
-/*-- scss:functions --*/
-// @function colorToRGB ($color) {
-//     @return "rgb(" + red($color) + ", " + green($color) + ", " + blue($color)+ ")";
-// }
+$iu_cream: #EDEBEB;
+$iu_crimson: #990000;
+$iu_black: #191919;
+$iu_crimson_light: #DD0031;
+$iu_crimson_dark: #4C1213;
+$iu_majestic: #512A44;
+$iu_orange: #DF3603;
+$iu_gold: #FFAA00;
+$iu_green: #056E41;
+$iu_purple: #59264D;
+
+$link-color: $iu_crimson !default;
+$primary: $iu_crimson !default;
+
+
+/*-- scss:rules --*/
+.quarto-title-banner > .quarto-title > .title {
+    color: $iu_cream;
+}
+
+// Hero Section
+.hero {
+    h1 {
+        color: $iu_crimson;
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    h2 {
+        color: $iu_majestic;
+        font-size: 2rem;
+        text-align: center;
+        border: none;
+    }
+
+    img {
+        width: 50%;
+        height: auto;
+        margin: 5% auto;
+        // center image
+        display: block;
+
+    }
+}
+
+.mission {
+    margin: 5% auto;
+    // add top border line
+    border-top: 1px solid $iu_crimson;
+
+    img {
+        border-radius: 25%;
+        // overlay a slight shade of $iu_crimson on top
+        background-color: rgba(153, 0, 0, 0.2);
+        margin: 5% auto;
+        // center image both horizaontally and vertically
+        display: block;
+
+    }
+
+    strong {
+        color: $iu_crimson;
+    }
+
+    em {
+        color: $iu_majestic;
+    }
+}
+
+// Profile Card
+.our-team {
+	padding: 30px 0 40px;
+	margin-bottom: 30px;
+	background-color: $iu_cream;
+	text-align: center;
+	overflow: hidden;
+	position: relative;
+	height: 90%;
+	.picture {
+		display: inline-block;
+		height: 130px;
+		width: 130px;
+		// margin-bottom: 50px;
+		z-index: 1;
+		position: relative;
+		&::before {
+			content: "";
+			width: 100%;
+			height: 0;
+			border-radius: 50%;
+			background-color: $iu_crimson;
+			position: absolute;
+			bottom: 135%;
+			right: 0;
+			left: 0;
+			opacity: 0.9;
+			transform: scale(3);
+			transition: all 0.3s linear 0s;
+		}
+		&::after {
+			content: "";
+			width: 100%;
+			height: 100%;
+			border-radius: 50%;
+			background-color: $iu_crimson;
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: -1;
+		}
+		img {
+			width: 100%;
+			height: auto;
+			border-radius: 50%;
+			transform: scale(1);
+			transition: all 0.9s ease 0s;
+		}
+	}
+	&:hover {
+		.picture {
+			&::before {
+				height: 100%;
+			}
+			img {
+				box-shadow: 0 0 0 14px #f7f5ec;
+				transform: scale(0.7);
+			}
+		}
+		.social {
+			bottom: 0;
+		}
+	}
+	.team-content {
+		a {
+			text-decoration: none;
+			color: $iu_crimson;
+
+			&:hover {
+				color: $iu_crimson_dark;
+			}
+		}
+		.name {
+			text-decoration: none;
+			overflow: hidden;
+			// color: $iu_crimson;
+		}
+		.title {
+			display: block;
+			font-size: 15px;
+			color: $iu_black;
+			text-transform: capitalize;
+			padding-bottom: 1rem;
+		}
+	}
+	.social {
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		background-color: $iu_crimson;
+		position: absolute;
+		bottom: -100px;
+		left: 0;
+		transition: all 0.5s ease 0s;
+		li {
+			display: inline-block;
+			a {
+				display: block;
+				padding: 10px;
+				font-size: 17px;
+				color: $iu_cream;
+				transition: all 0.3s ease 0s;
+				text-decoration: none;
+				&:hover {
+					color: $iu_crimson;
+					background-color: $iu_cream;
+				}
+			}
+		}
+	}
+}

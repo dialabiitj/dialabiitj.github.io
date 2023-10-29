@@ -20,7 +20,7 @@ freeze: true
 website:
   title: "Masood Lab"
   description: "{{< meta description-meta >}}"
-  # favicon: "/assets/logo.png"
+  favicon: "/assets/favicon.png"
   site-url: "https://masoodlab.com/"
   # repo-url: "https://github.com/aadimator/aadam_dev"
   # repo-actions: issue
@@ -52,16 +52,16 @@ website:
             href: team/index.qmd
           - href: index.qmd
             text: Photos
-      - href: index.qmd
+      - href: publications.qmd
         text: Publications
-      - href: index.qmd
-        text: Contact Us
-      - href: index.qmd
+      # - href: index.qmd
+      #   text: Contact
+      - href: news.qmd
         text: News
-      - href: index.qmd
+      - href: apply.qmd
         text: Apply
-      - href: index.qmd
-        text: Support Us
+      - href: support.qmd
+        text: Support
 
   page-footer: 
     center: "Copyright 2023, Masood Lab" 
@@ -73,10 +73,9 @@ website:
 
 format:
   html:
-    theme: 
-      - litera
-      - _style/custom.scss
+    theme: [zephyr, _style/custom.scss]
     css: _style/styles.css
+    linkcolor: "#990000"
     smooth-scroll: true
     link-external-newwindow: true
     toc: false
