@@ -1,0 +1,15 @@
+---
+title: "Ridhi Aggarwal"
+# doi: 10.1007/s00500-021-06578-4
+position: "Thesis defended 2023"
+image: ridhi_aggarwal.jpg
+joining-date: 2019-07-01
+toc: false
+url: https://sites.google.com/iitj.ac.in/ridhi/home
+about:
+  template: broadside
+links:
+  - name: Email
+    url: mailto:mraadam@iu.edu
+    icon: fa-solid fa-envelope
+---

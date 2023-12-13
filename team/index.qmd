@@ -1,6 +1,10 @@
 ---
 title: "Our Team"
 listing:
+    - id: Professor
+      contents: "Professor/Gaurav/index.qmd"
+      sort: "joining-date asc"
+      template: ../_layout/team/listing.ejs
     - id: current
       contents: "current/**/index.qmd"
       sort: "joining-date asc"
@@ -22,14 +26,16 @@ anchor-sections: false
 > Each member of our team brings a unique perspective and expertise, united by the shared commitment to making a lasting impact on the world of cancer research and treatment. Explore the profiles of our exceptional team members, and discover the faces driving our quest for transformative discoveries. {{< fa blank >}}   
 
 <!-- ::: -->
-
+## Faculty
+:::{#Professor}
+:::
 
 ## Current Lab Members
 
 :::{#current}
 :::
 
-<!-- ## Previous Lab Members
+## Graduated Students
 
 :::{#previous}
-::: -->
+:::

@@ -1,0 +1,15 @@
+---
+title: "Gaurav Harit"
+position: "Professor"
+image: Gaurav.jpg
+joining-date: 2012-01-01
+toc: false
+about:
+  template: broadside
+url: http://home.iitj.ac.in/~gharit/
+links:
+  - name: Email
+    url: mailto:kmansouri@iu.edu
+    icon: fa-solid fa-envelope
+---
+

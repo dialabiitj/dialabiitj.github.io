@@ -1,11 +1,11 @@
 ---
-title: "Abishek Bhandari"
+title: "Shilpa Pandey"
 # doi: 10.1007/s00500-021-06578-4
-position: "Ph.D. Student"
-image: abhishek_image.jpg
+position: "Graduated Year: 2019"
+image: shilpa_pandey.jpg
 joining-date: 2019-07-01
 toc: false
-url: https://ab26.github.io/
+url: http://www.aii.ac.in/aiie/employee/dr-shilpa-pandey/
 about:
   template: broadside
 links:

@@ -1,0 +1,22 @@
+---
+title: "Divya Srivastava"
+position: "Ph.D. Student"
+image: divya_srivastava.jpg
+joining-date: 2017-01-01
+toc: false
+about:
+  template: broadside
+links:
+  - name: Email
+    url: mailto:kmansouri@iu.edu
+    icon: fa-solid fa-envelope
+---
+
+## Biography
+
+- Ph.D. Student  
+- Indian Institute of Technology Jodhpur 
+
+---
+
+Divya is a dedicated Ph.D. student who has enthusiastically joined our lab to learn and contribute to our research initiatives. Her passion for acquiring knowledge and her willingness to be a part of our team is a testament to her commitment to advancing our collective goals.

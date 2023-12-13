@@ -11,17 +11,17 @@ project:
     - "assets/**"
 
 # Metadata
-pagetitle: "{{< meta title >}} | Masood Lab"
-description-meta: "Masood Lab, located at IUPUI, is focused on researching in the field of single cell and spatial transcriptomics."
-author-meta: "Masood Lab"
+pagetitle: "{{< meta title >}} | DIA Lab"
+description-meta: "DIA Lab, located at IUPUI, is focused on researching in the field of single cell and spatial transcriptomics."
+author-meta: "DIA Lab"
 
 freeze: true
 
 website:
-  title: "Masood Lab"
+  title: "DIA Lab"
   description: "{{< meta description-meta >}}"
   favicon: "/assets/favicon.png"
-  # site-url: "https://masoodlab.com/"
+  # site-url: "https://DIAlab.com/"
   # repo-url: "https://github.com/aadimator/aadam_dev"
   # repo-actions: issue
   # image: /assets/logo.png
@@ -57,7 +57,7 @@ website:
         text: Support
 
   page-footer: 
-    center: "Copyright 2023, Masood Lab" 
+    center: "Copyright 2023, DIA Lab" 
     right: 
       - icon: github
         href: https://github.com/

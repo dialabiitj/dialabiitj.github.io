@@ -1,0 +1,15 @@
+---
+title: "Hiteshi Jain"
+# doi: 10.1007/s00500-021-06578-4
+position: "Graduated Year: 2020"
+image: Hiteshi.png
+joining-date: 2019-07-01
+toc: false
+url: https://in.linkedin.com/in/hiteshi-jain-69581414?trk=people-guest_people_search-card
+about:
+  template: broadside
+links:
+  - name: Email
+    url: mailto:mraadam@iu.edu
+    icon: fa-solid fa-envelope
+---

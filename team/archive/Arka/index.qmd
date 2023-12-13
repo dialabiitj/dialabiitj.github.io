@@ -1,0 +1,15 @@
+---
+title: "Arka Ujjal Dey"
+# doi: 10.1007/s00500-021-06578-4
+position: "Graduated Year: 2022"
+image: arka_dec.jpg
+joining-date: 2019-07-01
+toc: false
+url: http://home.iitj.ac.in/~dey.1/
+about:
+  template: broadside
+links:
+  - name: Email
+    url: mailto:mraadam@iu.edu
+    icon: fa-solid fa-envelope
+---
