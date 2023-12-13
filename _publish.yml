@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f88e42c6-258e-4493-bbae-f127f61bb462
+      url: 'https://dialab.quarto.pub/diagroup'

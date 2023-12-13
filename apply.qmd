@@ -3,8 +3,8 @@ title: "Apply Now"
 title-block-banner: true
 ---
 
-Are you a dedicated, passionate student eager to make a difference in the field of cancer research? The Masood Lab is always on the lookout for hardworking individuals like you. If you're interested in becoming part of our dynamic team, please send us your application. Attach your Cover Letter and Resume to an email and forward it to:
+Are you a dedicated, passionate student eager to make a difference in the field of Computer Science? The DIA Lab is always on the lookout for hardworking individuals like you. If you're interested in becoming part of our dynamic team, please send us your application. Attach your Cover Letter and Resume to an email and forward it to:
 
-Email: <akhaliq@iu.edu>
+Email: <gharit@iitj.ac.in>
 
 We look forward to reviewing your application and potentially welcoming you to our team.
