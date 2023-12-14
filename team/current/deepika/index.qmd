@@ -7,61 +7,18 @@ about:
   template: broadside
 joining-date: 2021-07-01
 toc: false
-url: https://ab26.github.io/
+url:
 links:
   - name: Email
-    url: mailto:asmasood@iu.edu
+    url: mailto:
     icon: fa-solid fa-envelope
   - name: LinkedIn
-    url: https://www.linkedin.com/in/ashiq-masood-md-24b73b182/
+    url: 
     icon: fa-brands fa-linkedin
   - name: Website
-    url: https://cancer.iu.edu/research-trials/member-bio.shtml?name=ashiq-masood&id=30117
+    url: 
     icon: fa-regular fa-globe
   - name: Phone
-    url: tel:(317) 948-7575
+    url: tel:
     icon: fa-solid fa-phone
 ---
-
-<!-- ::: {.grid}
-
-::: {.g-col-12 .g-col-md-6 .w-full .h-full}
-
-::: {.w-full .h-full .pb-0} -->
-
-## Biography
-
-- Associate Professor of Medicine  
-- Program Leader, GI Medical Oncology  
-- Indiana University School Of Medicine.  
-- Center for Computational Biology and Bioinformatics  
-- Department of Medicine - Hematology/Oncology.  
-
-<!-- :::
-
-:::
-
-::: {.g-col-12 .g-col-md-6 .w-full .h-full}
-
-::: {.w-full .h-full .pb-0}
-![](ashiq_pic.jpeg){fig-alt="A picture of Dr. Ashiq Masood."}
-:::
-
-:::
-
-::: -->
-
-
----
-
-<!-- Dr.Masood pursued his M.B.B.S and MD from Sher-I-Kashmir Institute of Medical Sciences, India.He received his residency from Wayne State University,Detroit,MI USA(2012) .He obtained his Post-doctoral fellowship from University of Maryland Greenebaum Cancer Center,Baltimore,MD,USA(2015). Dr.Masood holds pervious mentoring experience as Assistant Professor of Medicine from University of Missouri-Kansas City School of Medicine USA(2016-2018) and Washington University of Medicine St.Louis,USA (2015-2016) .He was previously the Director of Gastrointestinal Medical Oncology at Rush University Medical College Chicago,IL,USA(2018-2021).His areas of expertise are gastrointestinal cancer and Precision medicine. He has a well-versed knowledge in computational biology and cancer genomics with which he is highly motivated to experiment various innovative clinical trails in field of Oncology.He was a member of the research group that made the breakthrough finding that transposons, or "jumping genes," causing colon cancer.Dr.Masood is currently the Program Leader of GI Medical Oncology at Indiana University Melvin and Bren Simon Cancer Center.His major publications were in high impact peer-reviewed journals like American Association of Cancer Research’s Molecular Cancer Therapeutics,Journal of Clinical Oncology and BioMed Central’s Molecular Cancer. He is an reviewer for top-tier medical journals and also an associate editor for BMC Cancer. His current research interest mainly focuses on Single cell RNA seq and Spatial Transcriptomics. -->
-
-Dr. Masood is a distinguished medical professional with a remarkable journey in the field of oncology. He earned his M.B.B.S and MD degrees from the prestigious Sher-I-Kashmir Institute of Medical Sciences, India, and completed his residency at Wayne State University, Detroit, MI, USA, in 2012. He further honed his expertise through a Post-doctoral fellowship at the University of Maryland Greenebaum Cancer Center, Baltimore, MD, USA, in 2015.
-
-With previous academic roles as an Assistant Professor of Medicine at the University of Missouri-Kansas City School of Medicine (2016-2018) and Washington University School of Medicine in St. Louis (2015-2016), Dr. Masood has garnered extensive experience. He served as the Director of Gastrointestinal Medical Oncology at Rush University Medical College, Chicago, IL, USA, from 2018 to 2021.
-
-Dr. Masood's areas of expertise encompass gastrointestinal cancer and precision medicine. His deep understanding of computational biology and cancer genomics drives his motivation to pioneer innovative clinical trials in the field of oncology. Notably, he played a pivotal role in the groundbreaking discovery related to "jumping genes" causing colon cancer. Currently, Dr. Masood serves as the Program Leader of GI Medical Oncology at the Indiana University Melvin and Bren Simon Cancer Center.
-
-His significant research contributions are well-documented in high-impact peer-reviewed journals, including the American Association of Cancer Research's Molecular Cancer Therapeutics, the Journal of Clinical Oncology, and BioMed Central's Molecular Cancer. Dr. Masood is not only a respected reviewer for top-tier medical journals but also an associate editor for BMC Cancer.
-
-His current research interests are primarily centered around single-cell RNA sequencing and spatial transcriptomics, aiming to push the boundaries of knowledge in the field of oncology. Dr. Masood's dedication to advancing cancer research and treatment is truly commendable.

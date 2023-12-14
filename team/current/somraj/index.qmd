@@ -12,12 +12,3 @@ links:
     url: mailto:kmansouri@iu.edu
     icon: fa-solid fa-envelope
 ---
-
-## Biography
-
-- Ph.D. Student  
-- Indian Institute of Technology Jodhpur 
-
----
-
-Somraj is a dedicated Ph.D. student who has enthusiastically joined our lab to learn and contribute to our research initiatives. Her passion for acquiring knowledge and her willingness to be a part of our team is a testament to her commitment to advancing our collective goals.

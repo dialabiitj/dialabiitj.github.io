@@ -8,7 +8,7 @@ about:
   template: broadside
 links:
   - name: Email
-    url: mailto:kmansouri@iu.edu
+    url: mailto:
     icon: fa-solid fa-envelope
 ---
 
@@ -18,5 +18,3 @@ links:
 - Indian Institute of Technology Jodhpur 
 
 ---
-
-Divya is a dedicated Ph.D. student who has enthusiastically joined our lab to learn and contribute to our research initiatives. Her passion for acquiring knowledge and her willingness to be a part of our team is a testament to her commitment to advancing our collective goals.

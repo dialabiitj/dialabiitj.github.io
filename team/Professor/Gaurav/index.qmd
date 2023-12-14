@@ -9,7 +9,7 @@ about:
 url: http://home.iitj.ac.in/~gharit/
 links:
   - name: Email
-    url: mailto:kmansouri@iu.edu
+    url: mailto:gharit@iitj.ac.in
     icon: fa-solid fa-envelope
 ---
 
