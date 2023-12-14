@@ -6,14 +6,10 @@ page-layout: full
 ---
 
 ::: {.hero}
-# Welcome to DIA Lab
+# Welcome to Document Image Analysis Lab
 ## Indian Institute of Technology Jodhpur
 
 ## Our Mission
 
-<!-- Study and understand tumors and their ecosystem at single cell resolution using exceptional single cell and spatial techniques coupled with advanced computational analysis to develope novel biomarkers and powefull therapies. Additionally we want to understand and discuss intra tumoral heterogenity,relationship,patient outcomes,treatment responses and resistance. Our lab comprises of clinical scientists,Pathologists,computational Biologists,computational scientists and clinical trailist working as a team to achive an ulitimate goal to improve clinical outcomes in Gastrointestinal Cancer. -->
-At **DIA Lab**, our mission is to *unravel the intricate world of tumors and their microenvironments* at the single-cell level. We employ cutting-edge single-cell and spatial techniques, supported by advanced computational analysis, to uncover novel biomarkers and potent therapeutic solutions. Furthermore, we are committed to delving into the complexities of *intra-tumoral heterogeneity*, understanding the intricate relationships within tumor ecosystems, investigating patient outcomes, deciphering treatment responses, and overcoming resistance.
-
-Our multidisciplinary team, comprised of clinical scientists, pathologists, computational biologists, computational scientists, and clinical trialists, collaborates seamlessly to achieve a common goal: enhancing clinical outcomes for individuals battling gastrointestinal cancer. We are dedicated to pioneering transformative research that can make a profound difference in the lives of patients and their families.
-:::
+Welcome to the **DIA Lab** Our laboratory is dedicated to advancing the field of Document Image Analysis (DIA) through cutting-edge research, innovation, and collaboration. We are committed to exploring the multifaceted challenges posed by document processing and developing state-of-the-art solutions that leverage computer vision, machine learning, and natural language processing techniques. With a team of passionate researchers and access to a wealth of resources, our lab strives to make significant contributions to areas such as document recognition, handwriting analysis, document layout understanding, and more. Our mission is to enhance the efficiency and accuracy of document-related tasks, benefiting a wide range of industries, from academia to industry. We invite you to explore our research projects, publications, and join us in our pursuit of excellence in Document Image Analysis.:::
 
