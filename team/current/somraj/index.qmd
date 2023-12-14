@@ -9,6 +9,6 @@ about:
 url: https://sites.google.com/view/somgautam/home
 links:
   - name: Email
-    url: mailto:kmansouri@iu.edu
+    url:
     icon: fa-solid fa-envelope
 ---

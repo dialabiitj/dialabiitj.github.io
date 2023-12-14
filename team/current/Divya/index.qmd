@@ -8,13 +8,6 @@ about:
   template: broadside
 links:
   - name: Email
-    url: mailto:
+    url:
     icon: fa-solid fa-envelope
----
-
-## Biography
-
-- Ph.D. Student  
-- Indian Institute of Technology Jodhpur 
-
 ---

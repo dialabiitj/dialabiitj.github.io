@@ -10,7 +10,7 @@ toc: false
 url:
 links:
   - name: Email
-    url: mailto:
+    url:
     icon: fa-solid fa-envelope
   - name: LinkedIn
     url: 
@@ -19,6 +19,6 @@ links:
     url: 
     icon: fa-regular fa-globe
   - name: Phone
-    url: tel:
+    url:
     icon: fa-solid fa-phone
 ---

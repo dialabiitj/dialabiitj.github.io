@@ -8,7 +8,7 @@ about:
   template: broadside
 links:
   - name: Email
-    url: mailto:
+    url:
     icon: fa-solid fa-envelope
   - name: LinkedIn
     url: 
