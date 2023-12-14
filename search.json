@@ -46,14 +46,14 @@
     "href": "index.html",
     "title": "Welcome to Document Image Analysis Lab",
     "section": "",
-    "text": "Welcome to the DIA Lab. Our laboratory is dedicated to advancing the field of Document Image Analysis (DIA) through cutting-edge research, innovation, and collaboration. We are committed to exploring the multifaceted challenges posed by document processing and developing state-of-the-art solutions that leverage computer vision, machine learning, and natural language processing techniques. With a team of passionate researchers and access to a wealth of resources, our lab strives to make significant contributions to areas such as document recognition, handwriting analysis, document layout understanding, and more. Our mission is to enhance the efficiency and accuracy of document-related tasks, benefiting a wide range of industries, from academia to industry. We invite you to explore our research projects, publications, and join us in our pursuit of excellence in Document Image Analysis."
+    "text": "Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain."
   },
   {
     "objectID": "index.html#our-mission",
     "href": "index.html#our-mission",
     "title": "Welcome to Document Image Analysis Lab",
     "section": "",
-    "text": "Welcome to the DIA Lab. Our laboratory is dedicated to advancing the field of Document Image Analysis (DIA) through cutting-edge research, innovation, and collaboration. We are committed to exploring the multifaceted challenges posed by document processing and developing state-of-the-art solutions that leverage computer vision, machine learning, and natural language processing techniques. With a team of passionate researchers and access to a wealth of resources, our lab strives to make significant contributions to areas such as document recognition, handwriting analysis, document layout understanding, and more. Our mission is to enhance the efficiency and accuracy of document-related tasks, benefiting a wide range of industries, from academia to industry. We invite you to explore our research projects, publications, and join us in our pursuit of excellence in Document Image Analysis."
+    "text": "Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain."
   },
   {
     "objectID": "support.html",
@@ -81,7 +81,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Sep 2022: Dr.Ateeq Khaliq from Masood’s Lab has been promoted to Assistant Research Professor of Medicine at Indiana University-Purdue University Indianapolis.\nAug 2022: Ms .Pravina Venkatesan a graduate Bioinformatics student from IUPUI joins Masood’s Lab as Research Assistant to explore single cell research.\nAug 2022: Ms.Meenakshi Raja Mohan a proficient Bioinformatics Scientist from India joins Masood’s Lab to enhance her expertise in Single cell research.\nJuly 2022: Dr. Cihat Erdogan a Postdoctoral fellow joins Masood’s Lab to more develop his skill set in the field of Biomedical Informatics\nJune 2022: Moizz Ahmed joins Masood’s lab as an undergradute student on the pre-med track\nMay 2022: Dr.Masood’s Lab led to the discovery of new targets for treatment of colorectal cancer using cutting-edge single cell technology.\nMay 2022: Dr.Ateeq Khaliq, a prominent postdoctoral fellow in Masood’s lab was the primary author of the paper “Refining colorectal cancer classifcation and clinical stratifcation through a single‑cell atlas” which was published in Genome Biology."
+    "text": "Aug 2023: Sagar Chakraborty presented TransDocAnalyser at ICDAR 2023 at San Jose\nApril 2023: Our work TransDocAnalyser is accepted in ICDAR 2023"
   },
   {
     "objectID": "publications.html",
