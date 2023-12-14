@@ -1,5 +1,5 @@
 ---
-title: "Sagar chakraborty"
+title: "Sagar Chakraborty"
 position: "Ph.D. Student"
 image: Sagar.jpg
 joining-date: 2023-07-01

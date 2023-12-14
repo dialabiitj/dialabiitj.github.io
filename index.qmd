@@ -9,6 +9,6 @@ page-layout: full
 # Welcome to Document Image Analysis Lab
 ## Indian Institute of Technology Jodhpur
 
-Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain.
+Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, Natural Language understanding and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain.
 :::
 
