@@ -141,9 +141,6 @@ ul.task-list li input[type="checkbox"] {
 <h1>Welcome to Document Image Analysis Lab</h1>
 <section id="indian-institute-of-technology-jodhpur" class="level2">
 <h2 class="anchored" data-anchor-id="indian-institute-of-technology-jodhpur">Indian Institute of Technology Jodhpur</h2>
-</section>
-<section id="our-mission" class="level2">
-<h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
 <p>Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain.</p>
 </section>
 </section>
@@ -383,7 +380,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/github\.com\/dialabiitj\/dialabiitj\.github\.io");
+      var filterRegex = new RegExp("https:\/\/dialabiitj\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
