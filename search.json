@@ -28,6 +28,27 @@
     "text": "Graduated Students\n\n\n        \n            \n              \n                \n                  \n                \n                \n              \n                Arka Ujjal Dey\n                Graduated Year: 2022\n              \n                \n                      \n                  \n            \n          \n        \n            \n              \n                \n                  \n                \n                \n              \n                Hiteshi Jain\n                Graduated Year: 2020\n              \n                \n                      \n                  \n            \n          \n        \n            \n              \n                \n                  \n                \n                \n              \n                Ridhi Aggarwal\n                Thesis defended 2023\n              \n                \n                      \n                  \n            \n          \n        \n            \n              \n                \n                  \n                \n                \n              \n                Shilpa Pandey\n                Graduated Year: 2019\n              \n                \n                      \n                      \n                      \n                      \n                      \n                  \n            \n          \n\n\nNo matching items"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Document Image Analysis Lab",
+    "section": "",
+    "text": "Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain."
+  },
+  {
+    "objectID": "index.html#indian-institute-of-technology-jodhpur",
+    "href": "index.html#indian-institute-of-technology-jodhpur",
+    "title": "Welcome to Document Image Analysis Lab",
+    "section": "",
+    "text": "Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain."
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Support Us",
+    "section": "",
+    "text": "#’\nYour support means the world to us. If you’re interested in contributing to our mission and helping us make a significant impact in the fight against cancer, we welcome your donations and support. Please don’t hesitate to reach out to us with any inquiries or offers of assistance. To get in touch with us regarding donations, simply send an email to:\nEmail: gharit@iitj.ac.in\nYour generosity and support play a vital role in advancing our research, and we sincerely appreciate your contributions. Thank you for being a part of our journey.’"
+  },
+  {
     "objectID": "apply.html",
     "href": "apply.html",
     "title": "Apply Now",
@@ -54,26 +75,5 @@
     "title": "Publications",
     "section": "",
     "text": "(Full list of publications can be found here)\n\nAggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. “Survey of Structural Analysis in Mathematical Expression Recognition.” IETE Technical Review (2023): 1-12.\nChakraborty, Sagar, Gaurav Harit, and Saptarshi Ghosh. “TransDocAnalyser: A Framework for Semi-structured Offline Handwritten Documents Analysis with an Application to Legal Domain.” International Conference on Document Analysis and Recognition. Cham: Springer Nature Switzerland, 2023.\nAggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. “Survey of mathematical expression recognition for printed and handwritten documents.” IETE Technical Review 39, no. 6 (2022): 1245-1253.\nDey, Arka Ujjal, Ernest Valveny, and Gaurav Harit. “EKTVQA: Generalized Use of External Knowledge to Empower Scene Text in Text-VQA.” IEEE Access 10 (2022): 72092-72106.\nPandey, Shilpa, and Gaurav Harit. “Handwritten Annotation Spotting in Printed Documents Using Top-Down Visual Saliency Models.” Transactions on Asian and Low-Resource Language Information Processing 21.3 (2021): 1-25.\nDey, Arka Ujjal, Suman K. Ghosh, Ernest Valveny, and Gaurav Harit. “Beyond visual semantics: Exploring the role of scene text in image understanding.” Pattern Recognition Letters 149 (2021): 164-171.\nJain, Hiteshi, Gaurav Harit, and Avinash Sharma. “Action quality assessment using siamese network-based deep metric learning.” IEEE Transactions on Circuits and Systems for Video Technology 31.6 (2020): 2260-2273.\nSrivastava, Divya, and Gaurav Harit. “Cell Extraction and Horizontal-Scale Correction in Structured Documents.” Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.\nAggarwal, Ridhi, Gaurav Harit, and Anil Kumar Tiwari. “Structural Analysis of Offline Handwritten Mathematical Expressions.” Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.\nSrivastava, Divya, and Gaurav Harit. “Word spotting in cluttered environment.” Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.\nJain, Hiteshi, and Gaurav Harit. “An unsupervised sequence-to-sequence autoencoder based human action scoring model.” 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP). IEEE, 2019.\nDivya, Srivastava, and Harit Gaurav. “Associating field components in heterogeneous handwritten form images using Graph Autoencoder.” 2019 International Conference on Document Analysis and Recognition Workshops (ICDARW). Vol. 5. IEEE, 2019.\nJain, Hiteshi, and Gaurav Harit. “Unsupervised temporal segmentation of human action using community detection.” 2018 25th IEEE International Conference on Image Processing (ICIP). IEEE, 2018.\nHarit, Gaurav, and Anukriti Bansal. “Table detection in document images using header and trailer patterns.” Proceedings of the Eighth Indian Conference on Computer Vision, Graphics and Image Processing. 2012.\nMallik, Anupama, Hiranmay Ghosh, Santanu Chaudhury, and Gaurav Harit. “MOWL: An ontology representation language for web-based multimedia applications.” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 10, no. 1 (2013): 1-21.\nBag, Soumen, Gaurav Harit, and Partha Bhowmick. “Recognition of Bangla compound characters using structural decomposition.” Pattern Recognition 47.3 (2014): 1187-1201.\nAnsari, Zafar Ahmed, and Gaurav Harit. “Nearest neighbour classification of Indian sign language gestures using kinect camera.” Sadhana 41 (2016): 161-182.\nChaudhury, Santanu, et al. “Identification of scripts of Indian languages by Combining trainable classifiers.” Proc. of ICVGIP. 2000.\nBag, S. and Harit, G., 2013. A survey on optical character recognition for Bangla and Devanagari scripts. Sadhana, 38, pp.133-168. and many more . . . ."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Document Image Analysis Lab",
-    "section": "",
-    "text": "Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain."
-  },
-  {
-    "objectID": "index.html#indian-institute-of-technology-jodhpur",
-    "href": "index.html#indian-institute-of-technology-jodhpur",
-    "title": "Welcome to Document Image Analysis Lab",
-    "section": "",
-    "text": "Welcome to the Document Image Analysis(DIA) Lab at IIT Jodhpur, a hub of pioneering research and innovation in the realm of digital image processing. Led by Professor Gaurav Harit, our lab is an assembly of dedicated researchers and students from IIT Jodhpur, committed to exploring and advancing the field of document image analysis. Our areas of focus include optical character recognition, image segmentation, and pattern recognition, among others. The team, driven by a passion for discovery and a commitment to academic excellence, works collaboratively to push the boundaries of knowledge in this dynamic domain."
-  },
-  {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Support Us",
-    "section": "",
-    "text": "Your support means the world to us. If you’re interested in contributing to our mission and helping us make a significant impact in the fight against cancer, we welcome your donations and support. Please don’t hesitate to reach out to us with any inquiries or offers of assistance. To get in touch with us regarding donations, simply send an email to:\nEmail: gharit@iitj.ac.in\nYour generosity and support play a vital role in advancing our research, and we sincerely appreciate your contributions. Thank you for being a part of our journey."
   }
 ]
