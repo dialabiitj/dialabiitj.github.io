@@ -3,10 +3,5 @@ title: "News"
 title-block-banner: true
 ---
 
-- **Sep 2022**: Dr.Ateeq Khaliq from Masood’s Lab has been promoted to Assistant Research Professor of Medicine at Indiana University-Purdue University Indianapolis.
-- **Aug 2022**: Ms .Pravina Venkatesan a graduate Bioinformatics student from IUPUI joins Masood’s Lab as Research Assistant to explore single cell research.
-- **Aug 2022**: Ms.Meenakshi Raja Mohan a proficient Bioinformatics Scientist from India joins Masood’s Lab to enhance her expertise in Single cell research.
-- **July 2022**: Dr. Cihat Erdogan a Postdoctoral fellow joins Masood’s Lab to more develop his skill set in the field of Biomedical Informatics
-- **June 2022**: Moizz Ahmed joins Masood's lab as an undergradute student on the pre-med track
-- **May 2022**: Dr.Masood’s Lab led to the discovery of new targets for treatment of colorectal cancer using cutting-edge single cell technology.
-- **May 2022**: Dr.Ateeq Khaliq, a prominent postdoctoral fellow in Masood's lab was the primary author of the paper "Refining colorectal cancer classifcation and clinical stratifcation through a single‑cell atlas" which was published in Genome Biology.
+- **Aug 2023**: Sagar Chakraborty presented TransDocAnalyser at ICDAR 2023 at San Jose
+- **April 2023**: Our work TransDocAnalyser is accepted in ICDAR 2023
