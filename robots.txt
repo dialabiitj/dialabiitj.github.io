@@ -1,1 +1,1 @@
-Sitemap: https://dialab.quarto.pub/diagroup/sitemap.xml
+Sitemap: https://dialabiitj.github.io/sitemap.xml
