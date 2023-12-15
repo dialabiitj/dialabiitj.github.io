@@ -1,5 +1,5 @@
 ---
-title: "Deepoka Kamboj"
+title: "Deepika Kamboj"
 # doi: 10.1007/s00500-021-06578-4
 position: "Ph.D. Student"
 image: Deepika-Kamboj.jpg

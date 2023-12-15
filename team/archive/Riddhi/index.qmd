@@ -1,7 +1,7 @@
 ---
 title: "Ridhi Aggarwal"
 # doi: 10.1007/s00500-021-06578-4
-position: "Thesis defended 2023"
+position: "Thesis submitted 2023"
 image: ridhi_aggarwal.jpg
 joining-date: 2019-07-01
 toc: false
