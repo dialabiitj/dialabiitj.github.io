@@ -3,6 +3,7 @@ title: "Abishek Bhandari"
 # doi: 10.1007/s00500-021-06578-4
 position: "Ph.D. Student"
 image: abhishek_image.jpg
+area: Deep learning, NLP
 joining-date: 2019-07-01
 toc: false
 url: https://ab26.github.io/
