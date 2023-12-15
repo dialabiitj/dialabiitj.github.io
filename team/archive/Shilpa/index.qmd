@@ -10,18 +10,6 @@ about:
   template: broadside
 links:
   - name: Email
-    url: mailto:mraadam@iu.edu
+    url:
     icon: fa-solid fa-envelope
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/aadimator
-    icon: fa-brands fa-linkedin
-  - name: Website
-    url: https://aadam.dev
-    icon: fa-regular fa-globe
-  - name: Github
-    url: https://www.github.com/aadimator
-    icon: fa-brands fa-github
-  - name: X
-    url: https://twitter.com/aadam_dev
-    icon: fa-brands fa-square-x-twitter
 ---
