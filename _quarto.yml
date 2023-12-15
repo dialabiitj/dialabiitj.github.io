@@ -12,7 +12,7 @@ project:
 
 # Metadata
 pagetitle: "{{< meta title >}} | DIA Lab"
-description-meta: "DIA Lab, located at IUPUI, is focused on researching in the field of single cell and spatial transcriptomics."
+description-meta: "DIA Lab, located at IIT Jodhpur, is focused on researching in the field of Computer Science and Engineering specially in document image unnderstanding."
 author-meta: "DIA Lab"
 
 freeze: true
@@ -53,8 +53,6 @@ website:
         text: News
       - href: apply.qmd
         text: Apply
-      - href: support.qmd
-        text: Support
 
   page-footer: 
     center: "Copyright 2023, DIA Lab" 
