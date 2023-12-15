@@ -1,5 +1,5 @@
 ---
-title: "Gaurav Harit"
+title: "Dr. Gaurav Harit"
 position: "Professor"
 image: Gaurav.jpg
 area: Document Image Analysis, Video Analysis
