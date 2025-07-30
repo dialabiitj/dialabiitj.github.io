@@ -6,23 +6,25 @@ title-block-banner: true
 
 (Full list of publications can be found [here](https://scholar.google.co.in/citations?user=puzdkHAAAAAJ&hl=en))
 
-1.  Aggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. "Survey of Structural Analysis in Mathematical Expression Recognition." IETE Technical Review (2023): 1-12.
-2.  Chakraborty, Sagar, Gaurav Harit, and Saptarshi Ghosh. "TransDocAnalyser: A Framework for Semi-structured Offline Handwritten Documents Analysis with an Application to Legal Domain." International Conference on Document Analysis and Recognition. Cham: Springer Nature Switzerland, 2023.
-3.  Aggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. "Survey of mathematical expression recognition for printed and handwritten documents." IETE Technical Review 39, no. 6 (2022): 1245-1253.
-4.  Dey, Arka Ujjal, Ernest Valveny, and Gaurav Harit. "EKTVQA: Generalized Use of External Knowledge to Empower Scene Text in Text-VQA." IEEE Access 10 (2022): 72092-72106.
-5.  Pandey, Shilpa, and Gaurav Harit. "Handwritten Annotation Spotting in Printed Documents Using Top-Down Visual Saliency Models." Transactions on Asian and Low-Resource Language Information Processing 21.3 (2021): 1-25.
-6.  Dey, Arka Ujjal, Suman K. Ghosh, Ernest Valveny, and Gaurav Harit. "Beyond visual semantics: Exploring the role of scene text in image understanding." Pattern Recognition Letters 149 (2021): 164-171.
-7.  Jain, Hiteshi, Gaurav Harit, and Avinash Sharma. "Action quality assessment using siamese network-based deep metric learning." IEEE Transactions on Circuits and Systems for Video Technology 31.6 (2020): 2260-2273.
-8.  Srivastava, Divya, and Gaurav Harit. "Cell Extraction and Horizontal-Scale Correction in Structured Documents." Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.
-9.  Aggarwal, Ridhi, Gaurav Harit, and Anil Kumar Tiwari. "Structural Analysis of Offline Handwritten Mathematical Expressions." Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.
-10.  Srivastava, Divya, and Gaurav Harit. "Word spotting in cluttered environment." Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.
-11.  Jain, Hiteshi, and Gaurav Harit. "An unsupervised sequence-to-sequence autoencoder based human action scoring model." 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP). IEEE, 2019.
-12.  Divya, Srivastava, and Harit Gaurav. "Associating field components in heterogeneous handwritten form images using Graph Autoencoder." 2019 International Conference on Document Analysis and Recognition Workshops (ICDARW). Vol. 5. IEEE, 2019.
-13.  Jain, Hiteshi, and Gaurav Harit. "Unsupervised temporal segmentation of human action using community detection." 2018 25th IEEE International Conference on Image Processing (ICIP). IEEE, 2018.
-14.  Harit, Gaurav, and Anukriti Bansal. "Table detection in document images using header and trailer patterns." Proceedings of the Eighth Indian Conference on Computer Vision, Graphics and Image Processing. 2012.
-15.  Mallik, Anupama, Hiranmay Ghosh, Santanu Chaudhury, and Gaurav Harit. "MOWL: An ontology representation language for web-based multimedia applications." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 10, no. 1 (2013): 1-21.
-16.  Bag, Soumen, Gaurav Harit, and Partha Bhowmick. "Recognition of Bangla compound characters using structural decomposition." Pattern Recognition 47.3 (2014): 1187-1201.
-17.  Ansari, Zafar Ahmed, and Gaurav Harit. "Nearest neighbour classification of Indian sign language gestures using kinect camera." Sadhana 41 (2016): 161-182.
-18.  Chaudhury, Santanu, et al. "Identification of scripts of Indian languages by Combining trainable classifiers." Proc. of ICVGIP. 2000.
-19.  Bag, S. and Harit, G., 2013. A survey on optical character recognition for Bangla and Devanagari scripts. Sadhana, 38, pp.133-168.
+-  Somraj Gautam, Abishek Bhandari, Gaurav Harit. "TabComp: A Dataset for Visual Table Reading Comprehension.", Findings of the Association for Computational Linguistics: NAACL 2025, 5773-5780
+-  Divya Srivastava, Gaurav Harit. "Selective denoising in document images using reinforcement learning." Sādhanā 49 (3), 225.
+-  Aggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. "Survey of Structural Analysis in Mathematical Expression Recognition." IETE Technical Review (2023): 1-12.
+-  Chakraborty, Sagar, Gaurav Harit, and Saptarshi Ghosh. "TransDocAnalyser: A Framework for Semi-structured Offline Handwritten Documents Analysis with an Application to Legal Domain." International Conference on Document Analysis and Recognition (ICDAR). Cham: Springer Nature Switzerland, 2023.
+-  Aggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. "Survey of mathematical expression recognition for printed and handwritten documents." IETE Technical Review 39, no. 6 (2022): 1245-1253.
+-  Dey, Arka Ujjal, Ernest Valveny, and Gaurav Harit. "EKTVQA: Generalized Use of External Knowledge to Empower Scene Text in Text-VQA." IEEE Access 10 (2022): 72092-72106.
+-  Pandey, Shilpa, and Gaurav Harit. "Handwritten Annotation Spotting in Printed Documents Using Top-Down Visual Saliency Models." Transactions on Asian and Low-Resource Language Information Processing 21.3 (2021): 1-25.
+-  Dey, Arka Ujjal, Suman K. Ghosh, Ernest Valveny, and Gaurav Harit. "Beyond visual semantics: Exploring the role of scene text in image understanding." Pattern Recognition Letters 149 (2021): 164-171.
+-  Jain, Hiteshi, Gaurav Harit, and Avinash Sharma. "Action quality assessment using siamese network-based deep metric learning." IEEE Transactions on Circuits and Systems for Video Technology 31.6 (2020): 2260-2273.
+-  Srivastava, Divya, and Gaurav Harit. "Cell Extraction and Horizontal-Scale Correction in Structured Documents." Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.
+-  Aggarwal, Ridhi, Gaurav Harit, and Anil Kumar Tiwari. "Structural Analysis of Offline Handwritten Mathematical Expressions." Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.
+-  Srivastava, Divya, and Gaurav Harit. "Word spotting in cluttered environment." Proceedings of 3rd International Conference on Computer Vision and Image Processing: CVIP 2018, Volume 2. Springer Singapore, 2020.
+-  Jain, Hiteshi, and Gaurav Harit. "An unsupervised sequence-to-sequence autoencoder based human action scoring model." 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP). IEEE, 2019.
+-  Divya, Srivastava, and Harit Gaurav. "Associating field components in heterogeneous handwritten form images using Graph Autoencoder." 2019 International Conference on Document Analysis and Recognition Workshops (ICDARW). Vol. 5. IEEE, 2019.
+-  Jain, Hiteshi, and Gaurav Harit. "Unsupervised temporal segmentation of human action using community detection." 2018 25th IEEE International Conference on Image Processing (ICIP). IEEE, 2018.
+-  Harit, Gaurav, and Anukriti Bansal. "Table detection in document images using header and trailer patterns." Proceedings of the Eighth Indian Conference on Computer Vision, Graphics and Image Processing. 2012.
+-  Mallik, Anupama, Hiranmay Ghosh, Santanu Chaudhury, and Gaurav Harit. "MOWL: An ontology representation language for web-based multimedia applications." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 10, no. 1 (2013): 1-21.
+-  Bag, Soumen, Gaurav Harit, and Partha Bhowmick. "Recognition of Bangla compound characters using structural decomposition." Pattern Recognition 47.3 (2014): 1187-1201.
+-  Ansari, Zafar Ahmed, and Gaurav Harit. "Nearest neighbour classification of Indian sign language gestures using kinect camera." Sadhana 41 (2016): 161-182.
+-  Chaudhury, Santanu, et al. "Identification of scripts of Indian languages by Combining trainable classifiers." Proc. of ICVGIP. 2000.
+-  Bag, S. and Harit, G., 2013. A survey on optical character recognition for Bangla and Devanagari scripts. Sadhana, 38, pp.133-168.
 and many more . . . . 
