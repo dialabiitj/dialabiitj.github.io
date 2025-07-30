@@ -2,6 +2,8 @@
 title: "News"
 title-block-banner: true
 ---
-
+- **Jun 2025**: Our work "Table detection with Active Leaning" accepted in ICDAR 2025
+- **Apr 2025**: Somraj Gautam presented TabComp at NAACL 2025
+- **Jan 2025**: Our work TabComp accepted in NAACL 2025
 - **Aug 2023**: Sagar Chakraborty presented TransDocAnalyser at ICDAR 2023 at San Jose
 - **April 2023**: Our work TransDocAnalyser is accepted in ICDAR 2023
