@@ -1,7 +1,7 @@
 ---
 title: "Arka Ujjal Dey"
 # doi: 10.1007/s00500-021-06578-4
-position: "Graduated Year: 2022"
+position: "Graduation Year: 2022"
 image: arka_dec.jpg
 joining-date: 2019-07-01
 toc: false
