@@ -6,6 +6,7 @@ title-block-banner: true
 
 (Full list of publications can be found [here](https://scholar.google.co.in/citations?user=puzdkHAAAAAJ&hl=en))
 
+-  Sagar Chakraborty, Gaurav Harit, Saptarshi Ghosh. "How well do MLLMs understand handwritten legal documents? A novel dataset for benchmarking" International Journal on Document Analysis and Recognition (IJDAR) 2025.
 -  Somraj Gautam, Abishek Bhandari, Gaurav Harit. "TabComp: A Dataset for Visual Table Reading Comprehension.", Findings of the Association for Computational Linguistics: NAACL 2025, 5773-5780
 -  Divya Srivastava, Gaurav Harit. "Selective denoising in document images using reinforcement learning." Sādhanā 49 (3), 225.
 -  Aggarwal, Ridhi, Shilpa Pandey, Anil Kumar Tiwari, and Gaurav Harit. "Survey of Structural Analysis in Mathematical Expression Recognition." IETE Technical Review (2023): 1-12.
