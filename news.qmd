@@ -2,6 +2,7 @@
 title: "News"
 title-block-banner: true
 ---
+- **Oct 2025**: Our work "Mind the (Language) Gap: Towards Probing Numerical and Cross-Lingual Limits of LVLMs" accepted in Multilingual Representation Learning Workshop EMNLP 2025
 - **Jun 2025**: Our work "Table detection with Active Leaning" accepted in ICDAR 2025
 - **Apr 2025**: Somraj Gautam presented TabComp at NAACL 2025
 - **Jan 2025**: Our work TabComp accepted in NAACL 2025
