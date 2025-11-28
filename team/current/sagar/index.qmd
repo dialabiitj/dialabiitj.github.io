@@ -1,7 +1,7 @@
 ---
 title: "Sagar Chakraborty"
 position: "Ph.D. Student"
-image: Sagar.jpg
+image: sagar.webp
 joining-date: 2023-07-01
 toc: false
 about:
